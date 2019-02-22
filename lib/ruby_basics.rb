@@ -1,13 +1,13 @@
 def division(num1, num2)
- 
+
 end
 
 def assign_variable(value)
-  
+  vale = "Bob"
 end
 
 def argue
-  
+
 end
 
 def greeting
